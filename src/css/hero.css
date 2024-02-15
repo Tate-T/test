@@ -4,3 +4,18 @@
     --gradient-color: #1D1D1D;
     --bacground-color: #121212;
   }
+
+  .hero-tytle{
+    background-color: var(--gradient-color);
+font-family: var(--font-family);
+font-weight: 500;
+font-size: 64px;
+line-height: 106%;
+letter-spacing: -0.04em;
+  }
+
+  .hero-photography{
+font-style: italic;
+font-weight: 400;
+color: var(--camera-bacground-color);
+  }
